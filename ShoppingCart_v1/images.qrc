@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>search-icon.png</file>
+        <file>BIC Brite Liner Highlighters.jpg</file>
+        <file>Pentel Hi-Polymer Block Eraser.jpg</file>
+        <file>Zebra F-301 Stainless Steel Retractable Ballpoint Pen.jpg</file>
+        <file>Elmer's Disappearing Purple School Glue.jpg</file>
+        <file>Office+Style Colored Binder Clips.jpg</file>
+        <file>Post-it Super Sticky Notes.jpg</file>
+        <file>Scotch Multi-Purpose Scissor.jpg</file>
+        <file>Swingline Stapler.jpg</file>
+        <file>Universal 32-Size Rubber Bands.jpg</file>
+        <file>1TB Black My Passport Ultra Portable External Hard Drive.jpg</file>
+        <file>Anker PowerCore 10000 Portable Charger.jpg</file>
+        <file>Fire TV Stick with Alexa Voice Remote.jpg</file>
+        <file>Fitbit Charge 2 Heart Rate + Fitness Wristband.jpg</file>
+        <file>Fujifilm INSTAX Mini 8 Instant Camera.jpg</file>
+        <file>Gears of War.jpg</file>
+        <file>Half-Life.jpg</file>
+        <file>Halo Combat Evolved.jpg</file>
+        <file>JBL Charge 3 Waterproof Portable Bluetooth Speaker.jpg</file>
+        <file>Left 4 Dead.jpg</file>
+        <file>Logitech Wireless Mouse.jpg</file>
+        <file>Logitech Wireless USB Keyboard.jpg</file>
+        <file>Lord of the Flies.jpg</file>
+        <file>Mario Kart Double Dash.jpg</file>
+        <file>Metroid Fusion.jpg</file>
+        <file>Portal.jpg</file>
+        <file>Reviving Ophelia.jpg</file>
+        <file>The Brief Wondrous Life of Oscar Wao.jpg</file>
+        <file>The Catcher in the Rye.jpg</file>
+        <file>The Grapes of Wrath.jpg</file>
+        <file>The Odyssey.jpg</file>
+        <file>The Picture of Dorian Gray.jpg</file>
+        <file>The Scarlet Letter.jpg</file>
+        <file>Uncle Tom's Cabin.jpg</file>
+        <file>Wireless Bluetooth Headphones.jpg</file>
+        <file>Super Smash Bros Melee.jpg</file>
+        <file>Zelda Ocarina of Time.jpg</file>
+        <file>blackCart.png</file>
+        <file>blackCart 2.png</file>
+    </qresource>
+</RCC>
