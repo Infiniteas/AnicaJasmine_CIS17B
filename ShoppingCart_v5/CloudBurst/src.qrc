@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/gfx">
+        <file>items/1TB Black My Passport Ultra Portable External Hard Drive.jpg</file>
+        <file>items/Anker PowerCore 10000 Portable Charger.jpg</file>
+        <file>items/BIC Brite Liner Highlighters.jpg</file>
+        <file>items/blackCart 2.png</file>
+        <file>items/blackCart.png</file>
+        <file>items/Elmer's Disappearing Purple School Glue.jpg</file>
+        <file>items/Fire TV Stick with Alexa Voice Remote.jpg</file>
+        <file>items/Fitbit Charge 2 Heart Rate + Fitness Wristband.jpg</file>
+        <file>items/Fujifilm INSTAX Mini 8 Instant Camera.jpg</file>
+        <file>items/Gears of War.jpg</file>
+        <file>items/Half-Life.jpg</file>
+        <file>items/Halo Combat Evolved.jpg</file>
+        <file>items/JBL Charge 3 Waterproof Portable Bluetooth Speaker.jpg</file>
+        <file>items/Left 4 Dead.jpg</file>
+        <file>items/Logitech Wireless Mouse.jpg</file>
+        <file>items/Logitech Wireless USB Keyboard.jpg</file>
+        <file>items/Lord of the Flies.jpg</file>
+        <file>items/Mario Kart Double Dash.jpg</file>
+        <file>items/Metroid Fusion.jpg</file>
+        <file>items/Office+Style Colored Binder Clips.jpg</file>
+        <file>items/Pentel Hi-Polymer Block Eraser.jpg</file>
+        <file>items/Pentel_HiPolymer.jpg</file>
+        <file>items/Portal.jpg</file>
+        <file>items/Post-it Super Sticky Notes.jpg</file>
+        <file>items/Reviving Ophelia.jpg</file>
+        <file>items/Scotch Multi-Purpose Scissor.jpg</file>
+        <file>items/search-icon.png</file>
+        <file>items/Super Smash Bros Melee.jpg</file>
+        <file>items/Swingline Stapler.jpg</file>
+        <file>items/The Brief Wondrous Life of Oscar Wao.jpg</file>
+        <file>items/The Catcher in the Rye.jpg</file>
+        <file>items/The Grapes of Wrath.jpg</file>
+        <file>items/The Odyssey.jpg</file>
+        <file>items/The Picture of Dorian Gray.jpg</file>
+        <file>items/The Scarlet Letter.jpg</file>
+        <file>items/Uncle Tom's Cabin.jpg</file>
+        <file>items/Universal 32-Size Rubber Bands.jpg</file>
+        <file>items/Wireless Bluetooth Headphones.jpg</file>
+        <file>items/Zebra F-301 Stainless Steel Retractable Ballpoint Pen.jpg</file>
+        <file>items/ZebraPen.jpg</file>
+        <file>items/Zelda Ocarina of Time.jpg</file>
+        <file>items/header-holiday-featured-products.jpg</file>
+        <file>images/cloudburst_small.png</file>
+        <file>images/SplashHolidaySale.png</file>
+        <file>animation/christmas_shopping.gif</file>
+        <file>images/Logo2.png</file>
+        <file>images/error.png</file>
+        <file>images/Logo.png</file>
+        <file>images/CloudBurst_Holiday.png</file>
+        <file>images/CloudBurst_Logo.png</file>
+        <file>images/CloudBurst_Logo_small.png</file>
+    </qresource>
+</RCC>

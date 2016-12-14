@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>animation/crystal.gif</file>
+        <file>images/ensorcell2.png</file>
+        <file>toolbar/add.png</file>
+        <file>toolbar/create-icon.png</file>
+        <file>toolbar/delete_recycle_bin_trash_garbage.png</file>
+        <file>toolbar/open.png</file>
+        <file>toolbar/save.png</file>
+        <file>toolbar/saveAs.png</file>
+        <file>images/error.png</file>
+        <file>images/passRestictions3.png</file>
+        <file>images/ensorcell3.png</file>
+    </qresource>
+</RCC>
